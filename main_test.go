@@ -1,3 +1,7 @@
 package main
 
-// Пишите тесты в этом файле
+import (
+	"testing"
+)
+
+func TestGenerateRandomElements(t *testing.T)
